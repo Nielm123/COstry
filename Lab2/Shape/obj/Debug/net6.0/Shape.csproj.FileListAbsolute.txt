@@ -1,0 +1,14 @@
+C:\Users\Nielm\Desktop\C#\Lab2\Shape\bin\Debug\net6.0\Shape.exe
+C:\Users\Nielm\Desktop\C#\Lab2\Shape\bin\Debug\net6.0\Shape.deps.json
+C:\Users\Nielm\Desktop\C#\Lab2\Shape\bin\Debug\net6.0\Shape.runtimeconfig.json
+C:\Users\Nielm\Desktop\C#\Lab2\Shape\bin\Debug\net6.0\Shape.dll
+C:\Users\Nielm\Desktop\C#\Lab2\Shape\bin\Debug\net6.0\ref\Shape.dll
+C:\Users\Nielm\Desktop\C#\Lab2\Shape\bin\Debug\net6.0\Shape.pdb
+C:\Users\Nielm\Desktop\C#\Lab2\Shape\obj\Debug\net6.0\Shape.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nielm\Desktop\C#\Lab2\Shape\obj\Debug\net6.0\Shape.AssemblyInfoInputs.cache
+C:\Users\Nielm\Desktop\C#\Lab2\Shape\obj\Debug\net6.0\Shape.AssemblyInfo.cs
+C:\Users\Nielm\Desktop\C#\Lab2\Shape\obj\Debug\net6.0\Shape.csproj.CoreCompileInputs.cache
+C:\Users\Nielm\Desktop\C#\Lab2\Shape\obj\Debug\net6.0\Shape.dll
+C:\Users\Nielm\Desktop\C#\Lab2\Shape\obj\Debug\net6.0\ref\Shape.dll
+C:\Users\Nielm\Desktop\C#\Lab2\Shape\obj\Debug\net6.0\Shape.pdb
+C:\Users\Nielm\Desktop\C#\Lab2\Shape\obj\Debug\net6.0\Shape.genruntimeconfig.cache

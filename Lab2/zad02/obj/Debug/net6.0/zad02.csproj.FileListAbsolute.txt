@@ -1,0 +1,5 @@
+C:\Users\Nielm\Desktop\C#\Lab2\zad02\obj\Debug\net6.0\zad02.csproj.AssemblyReference.cache
+C:\Users\Nielm\Desktop\C#\Lab2\zad02\obj\Debug\net6.0\zad02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nielm\Desktop\C#\Lab2\zad02\obj\Debug\net6.0\zad02.AssemblyInfoInputs.cache
+C:\Users\Nielm\Desktop\C#\Lab2\zad02\obj\Debug\net6.0\zad02.AssemblyInfo.cs
+C:\Users\Nielm\Desktop\C#\Lab2\zad02\obj\Debug\net6.0\zad02.csproj.CoreCompileInputs.cache
